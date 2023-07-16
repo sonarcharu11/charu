@@ -12,3 +12,4 @@ elif( choice == 2 ):
  count+=2;
 else:
  print( "Ok" )
+ Output:
